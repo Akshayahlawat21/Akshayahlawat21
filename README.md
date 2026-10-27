@@ -27,8 +27,9 @@
 
 ### About Me
 
-I'm an Electronics and Communication Engineering graduate with a strong interest in software engineering and full-stack development.
-
+- I'm an Electronics and Communication Engineering graduate
+  with a minor specialization in Computer Science, Machine Learning
+  and Data Analytics
 - Building web applications with React and Node.js.
 - Exploring AI-powered products and modern web technologies.
 - Interested in clean code, backend architecture, and scalable applications.
