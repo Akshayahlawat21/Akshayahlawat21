@@ -114,3 +114,13 @@
 <p align="center">
   <i>Building, learning, and improving one project at a time.</i>
 </p>
+
+### 🐍 Watch my contributions get eaten!
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akshayahlawat21/Akshayahlawat21/output/github-snake-dark.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Akshayahlawat21/Akshayahlawat21/output/github-snake.svg">
+  </picture>
+</p>
+
